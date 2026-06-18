@@ -7,4 +7,4 @@ Code related to OzzMaker SARA-R5 LTE-M GPS + 10DOF (IMU + ALT)
 
 Head on over to http://ozzmaker.com/ for more information.
 
-![OzzMaker SARA-R5 LTE-M GPS + 10DOF ](https://ozzmaker.com/wp-content/uploads/2023/01/LTEFrontFeature-800.jpg "ozzmaker-LTE-IMU")
+![OzzMaker SARA-R5 LTE-M GPS + 10DOF ](https://ozzmaker.com/wp-content/uploads/2023/02/LTEFrontFeature2-800.jpg "ozzmaker-LTE-IMU")
